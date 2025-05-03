@@ -1,0 +1,6 @@
+pygame==2.5.2
+librosa==0.10.1
+numpy==1.26.4
+opencv-python==4.9.0.80
+Pillow==10.2.0
+tk==0.1.0
