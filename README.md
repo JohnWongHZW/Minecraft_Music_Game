@@ -1,3 +1,12 @@
+Python 3.11.9
+所需依赖库
+pygame
+librosa
+numpy
+opencv-python
+Pillo
+tk
+
 导入你喜欢的音乐，程序会处理成烈焰弹幕
 首次解析音乐会很漫长......
 需要选中窗口才能用键盘操作！
